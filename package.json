@@ -10,13 +10,18 @@
     "egg": "^2.15.1",
     "egg-cors": "^2.2.3",
     "egg-jwt": "^3.1.7",
+    "egg-mongoose": "^3.3.1",
     "egg-mysql": "^3.0.0",
+    "egg-redis": "^2.4.0",
     "egg-scripts": "^2.11.0",
-    "jsonwebtoken": "^8.5.1"
+    "jsencrypt": "^3.0.0-rc.1",
+    "jsonwebtoken": "^8.5.1",
+    "node-jsencrypt": "^1.0.0"
   },
   "devDependencies": {
     "autod": "^3.0.1",
     "autod-egg": "^1.1.0",
+    "copy-webpack-plugin": "^7.0.0",
     "egg-bin": "^4.11.0",
     "egg-ci": "^1.11.0",
     "egg-mock": "^3.21.0",
